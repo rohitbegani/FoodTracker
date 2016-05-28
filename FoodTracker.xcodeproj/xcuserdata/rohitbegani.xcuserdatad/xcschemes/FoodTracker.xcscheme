@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4BAA7A711CF957B900560572"
+               BlueprintIdentifier = "CA1902DB1B10E523000271C4"
                BuildableName = "FoodTracker.app"
                BlueprintName = "FoodTracker"
                ReferencedContainer = "container:FoodTracker.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4BAA7A851CF957B900560572"
+               BlueprintIdentifier = "CA1902EF1B10E523000271C4"
                BuildableName = "FoodTrackerTests.xctest"
                BlueprintName = "FoodTrackerTests"
                ReferencedContainer = "container:FoodTracker.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4BAA7A711CF957B900560572"
+            BlueprintIdentifier = "CA1902DB1B10E523000271C4"
             BuildableName = "FoodTracker.app"
             BlueprintName = "FoodTracker"
             ReferencedContainer = "container:FoodTracker.xcodeproj">
@@ -65,7 +65,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4BAA7A711CF957B900560572"
+            BlueprintIdentifier = "CA1902DB1B10E523000271C4"
             BuildableName = "FoodTracker.app"
             BlueprintName = "FoodTracker"
             ReferencedContainer = "container:FoodTracker.xcodeproj">
@@ -84,7 +84,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4BAA7A711CF957B900560572"
+            BlueprintIdentifier = "CA1902DB1B10E523000271C4"
             BuildableName = "FoodTracker.app"
             BlueprintName = "FoodTracker"
             ReferencedContainer = "container:FoodTracker.xcodeproj">
